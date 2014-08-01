@@ -1,0 +1,11 @@
+{
+    "name": "Convert-GFWList-to-Route",
+    "description": "Convert GFWList to ips that can be used for route table",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+				"base64-stream": "0.1.2",
+				"line-reader": "0.2.4",
+				"underscore": "1.6.0"
+    }
+}
